@@ -1,2 +1,2 @@
-# SBA
-26-2 Smartcity Bigdata Analysis
+# Smartcity Bigdata Analysis(SBA)
+26-2 exercie Smartcity Bigdata Analysis
